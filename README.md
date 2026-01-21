@@ -27,7 +27,7 @@
 
 ### 🛠️ Технологии
 
-HTML • CSS • JavaScript • TypeScript • Git • Figma  
+HTML • CSS • JavaScript • TypeScript • Git • Figma •  Rect • Redux Toolkit
 
 ---
 
