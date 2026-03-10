@@ -6,7 +6,7 @@
 
 ### 🚀 Мои проекты
 
-📖**[SkillSwap](https://github.com/AbramenkoEkaterina/SkillSwap_45_2)**
+📖 **[SkillSwap](https://github.com/AbramenkoEkaterina/SkillSwap_45_2)**
 SkillSwap — это платформа обмена навыками «Я начинаю», где пользователи могут делиться своими умениями и находить людей для обучения и сотрудничества.
 
 📝 **[weblarek](https://github.com/AbramenkoEkaterina/weblarek)**  
