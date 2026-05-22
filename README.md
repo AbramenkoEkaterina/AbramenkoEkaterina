@@ -5,7 +5,7 @@
 ---
 ## Сейчас работаю над 
 🔗 **[Аккорды для гитары](https://akkords.dalimteam.ru/)**
-🔗**[Astrostilist](https://github.com/Astrostilist)**
+🔗 **[Astrostilist](https://github.com/Astrostilist)**
 
 ### 🚀 Мои проекты
 
